@@ -1,4 +1,4 @@
-# Hola-Mundo
-repositorio de prueba launchx
+# Hola-Mundo 
+repositorio en segunda rama
 
 Autor: Jorge Guadalupe Ventura Lopez
